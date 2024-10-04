@@ -1,0 +1,104 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "cust_fName": "rajesh",
+      "cust_lName": "Patil",
+      "cust_billingAddress": "pune",
+      "product_Name": "IPhone",
+      "product_price": 199.23,
+      "product_Discount": 10,
+      "product_info": "Iphone 15",
+      "mobile_number":"11111111"
+    },
+    {
+      "id": "2",
+      "cust_fName": "Rohini",
+      "cust_lName": "Shinde",
+      "cust_billingAddress": "Mumbai",
+      "product_Name": "IPhone",
+      "product_price": 299.23,
+      "product_Discount": 7,
+      "product_info": "Iphone 15 Pro Max 1TB",
+      "mobile_number":"11111111"
+    },
+    {
+      "id": "9cee",
+      "cust_fName": "Dipali",
+      "cust_lName": "Joshi",
+      "cust_billingAddress": "Pune",
+      "product_Name": "Mobile Phone",
+      "product_price": 1299,
+      "product_Discount": 5,
+      "product_info": "Samsung",
+      "mobile_number":11111111
+    },
+    {
+      "cust_fName": "Punam",
+      "cust_lName": "Jadhav",
+      "cust_billingAddress": "Mumbai",
+      "product_Name": "Mobile Phone",
+      "product_price": 333,
+      "product_Discount": 15,
+      "product_info": "IPhone",
+      "id": "739d"
+    ,   "mobile_number":11111111
+    },
+    {
+      "cust_fName": "Punam",
+      "cust_lName": "Jadhav",
+      "cust_billingAddress": "Vashi New Mumbai",
+      "product_Name": "Mobile Phone",
+      "product_price": 333,
+      "product_Discount": 15,
+      "product_info": "IPhone",
+      "id": "3d92",
+      "mobile_number":11111111
+
+    },
+    {
+      "cust_fName": "Punam",
+      "cust_lName": "Jadhav",
+      "cust_billingAddress": "Mumbai",
+      "product_Name": "Mobile Phone",
+      "product_price": 333,
+      "product_Discount": 45,
+      "product_info": "IPhone",
+      "id": "305a"
+      ,   "mobile_number":11111111
+    },
+    {
+      "cust_fName": "Punam",
+      "cust_lName": "Jadhav",
+      "cust_billingAddress": "Mumbai",
+      "product_Name": "Mobile Phone",
+      "product_price": 999,
+      "product_Discount": 15,
+      "product_info": "Vivo Mobile Phone",
+      "id": "e2f8"
+      ,   "mobile_number":11111111
+    },
+    {
+      "cust_fName": "Punam",
+      "cust_lName": "Jadhav",
+      "cust_billingAddress": "Mumbai",
+      "product_Name": "Mobile Phone",
+      "product_price": 999,
+      "product_Discount": 15,
+      "product_info": "Vivo Mobile Phone",
+      "id": "333f",
+      "mobile_number":11111111
+    },
+    {
+      "cust_fName": "Punam",
+      "cust_lName": "Jadhav",
+      "cust_billingAddress": "Mumbai",
+      "product_Name": "Mobile Phone",
+      "product_price": 999,
+      "product_Discount": 15,
+      "product_info": "Vivo Mobile Phone",
+      "id": "7659",
+      "mobile_number":11111111
+    }
+  ]
+}
